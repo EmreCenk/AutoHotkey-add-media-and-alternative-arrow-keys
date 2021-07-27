@@ -1,5 +1,5 @@
 
-Does your 60% / tkl keyboard not have dedicated media keys? I know mine doesn't. 
+Does your keyboard not have dedicated media keys? I know mine doesn't. 
 You can copy the scripts in this repository to AutoHotkey, and create shortcuts for media keys.
 
 Here is the current setup for the autohotkey script:
