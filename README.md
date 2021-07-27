@@ -1,5 +1,8 @@
-Here is the current setup for the autohotkey script:
 
+Does your 60% / tkl keyboard not have dedicated media switches? I know mine doesn't. 
+You can copy the scripts in this repository to AutoHotkey, and create shortcuts for media keys.
+
+Here is the current setup for the autohotkey script:
 
 * Ctrl + Alt + Space = Pause
 * Ctrl + Alt + Right Arrow Key = Go go next
