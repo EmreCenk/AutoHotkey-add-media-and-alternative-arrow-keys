@@ -15,3 +15,13 @@ Here is the current setup for the autohotkey script:
 Note: If you would like the 0 to be on the numberline, copy the script titled "Number_Line_Script.ahk".
 
 If you wouud like the 0 to be on the numberpad, copy the script titled "Number_Pad_Script.ahk"
+
+
+
+To Convert i, j, k and l to arrow keys on your computer, you can press alt. 
+The following is what the "arrow_keys.ahk" script does:
+
+Alt + k = down
+Alt + i = Up arrow
+Alt + l = Right Arrow
+Alt + j = Left Arrow
