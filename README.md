@@ -18,7 +18,8 @@ Note: If you would like the 0 to be on the numberline, copy the script titled "N
 
 If you wouud like the 0 to be on the numberpad, copy the script titled "Number_Pad_Script.ahk"
 
-
+&nbsp
+&nbsp
 
 To Convert i, j, k and l to arrow keys on your computer, you can press alt. 
 The following is what the "arrow_keys.ahk" script does:
