@@ -14,6 +14,8 @@ Here is the current setup for the autohotkey script:
 
 Note: If you would like the 0 to be on the numberline, copy the script titled "Number_Line_Script.ahk".
 
+
+
 If you wouud like the 0 to be on the numberpad, copy the script titled "Number_Pad_Script.ahk"
 
 
