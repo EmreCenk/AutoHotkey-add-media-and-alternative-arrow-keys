@@ -21,7 +21,7 @@ If you wouud like the 0 to be on the numberpad, copy the script titled "Number_P
 To Convert i, j, k and l to arrow keys on your computer, you can press alt. 
 The following is what the "arrow_keys.ahk" script does:
 
-Alt + k = down
-Alt + i = Up arrow
-Alt + l = Right Arrow
-Alt + j = Left Arrow
+* Alt + k = down
+* Alt + i = Up arrow
+* Alt + l = Right Arrow
+* Alt + j = Left Arrow
